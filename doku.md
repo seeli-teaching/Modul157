@@ -7,5 +7,5 @@ npm install
 ## C#
 dotnet restore project.csproj
 
-JAVA
+JAVA und jvm
 Maven oder Gradel  ????
